@@ -1,1 +1,11 @@
+# basic options
+title: My Website
+author: MartinJoh / John Martin 
+email: Martinjoh@berea.edu
+description: I am hoping to use this stie to help display more of who I am, and my capabilities. 
+twitter_username: Jon_luv99
+github_username:  Martinjoh1
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
