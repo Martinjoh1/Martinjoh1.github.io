@@ -8,6 +8,7 @@ github_username:  Martinjoh1
 
 # Build settings
 name: John Martin
-file: permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+theme: minima 
 
