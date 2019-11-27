@@ -1,6 +1,7 @@
 ---
 layout: post
-title: My first post using Jekyll, and Github pages
+title: "My first post using Jekyll, and Github pages"
+date: 2019-11-24
 ---
 
 I really wanted a website so decided to make oune using Github pages, because someone suggested it to me. 
