@@ -2,5 +2,6 @@
 name: John Martin
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: minma
 
 
